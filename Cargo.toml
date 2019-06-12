@@ -1,0 +1,9 @@
+[package]
+name = "g711a"
+version = "0.1.0"
+authors = ["Jonathan M. Wilbur <jonathan@wilbur.space>"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+hound = "3.4.0"
